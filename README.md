@@ -1,7 +1,7 @@
 # Credit Card Default Prediction
 
 This project focuses on using machine learning techniques to predict credit card defaults using the Kaggle "American Express - Default Prediction" dataset. The goal is to evaluate the performance of various machine learning algorithms, including **XGBoost**, **Neural Networks**, **Ensemble Methods**, **Random Forest Classifier (RFC)**, **Decision Tree Classifier (DTC)**, and **Logistic Regression Classifier (LRC)**, in predicting whether a customer will default on their credit card.
-
+ 
 ## Objectives
 
 - Evaluate and compare the performance of various machine learning algorithms in predicting credit card defaults.
